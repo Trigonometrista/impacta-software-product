@@ -1,5 +1,6 @@
-plataforma-estudos-online/
-│
+Plataforma-de-cursos
+│Estrutura
+Node.js no backend, React no frontend e BD em PostgreSQL
 ├── backend/
 │   ├── controllers/
 │   ├── models/
@@ -13,8 +14,5 @@ plataforma-estudos-online/
 │   ├── src/
 │   ├── package.json
 │   └── index.js
-│
-├── database/
-│   └── migrations/
 │
 └── README.md
